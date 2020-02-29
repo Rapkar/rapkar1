@@ -6,7 +6,7 @@ you can type your adrress and get Qr
 
 for run this. must   xampp  setup
 1-Download files of git
-2-Extract Rar File In Root
+2-Extract Rar File In Root :)
 
 
 
